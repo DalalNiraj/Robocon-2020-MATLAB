@@ -13,3 +13,8 @@ Different parameters such as
 - Collision parameters between different robot parts.
 - Fricition parameters between different joints.
 - Internal loss parameters in pneumatic cylinders.
+
+Made by: 
+Arman Lalani : https://www.linkedin.com/in/lalaniarman/
+
+Niraj Dalal : https://www.linkedin.com/in/dniraj00/
