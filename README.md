@@ -14,7 +14,7 @@ Different parameters such as
 - Fricition parameters between different joints.
 - Internal loss parameters in pneumatic cylinders.
 
-Made by: 
+Contributed by: 
 
 Arman Lalani : https://www.linkedin.com/in/lalaniarman/
 
